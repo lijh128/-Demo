@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root Type="DevExpress.IntelliRush.Options.IntelliRushOptions">
+  <Options Language="Neutral">
+    <Enabled>True</Enabled>
+    <DisabledLanguages />
+    <UserDefinedWidth>209</UserDefinedWidth>
+    <UserDefinedHeight>350</UserDefinedHeight>
+  </Options>
+</Root>
