@@ -35,7 +35,7 @@ namespace PieceToStock
             //先检查输入的数据是否长度一致
             if(pieceLabel.Length != pieceDemandValue.Length || pieceLabel.Length != pieceLength.Length)
             {
-                throw new Exception("输入数据长度不一致");
+                throw new Exception("输入数据长");
             }
 
             for(int index = 0; index < pieceLabel.Length; index++)
